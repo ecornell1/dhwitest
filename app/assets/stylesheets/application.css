@@ -13,7 +13,7 @@
  */
 
 html {
-	background-color: #eee;
+	
 }
 
 body {
@@ -21,13 +21,15 @@ body {
 	width: 70%;
 	margin: 0 auto;
 	padding: 20px 40px;
-	border-bottom: 5px solid #777;
+	background-image: url(Luke.jpg); 
+	background-repeat:no-repeat;
+	background-size: cover; 
 }
 
 header {
-	background-color: #333;
 	color: #fff;
 	padding: 20px;
+	
 }
 
 header h1 {
@@ -63,3 +65,8 @@ td {
 	padding: 10px 0;
 }
 
+a:link {color: ;}
+a:visited {color: ;}
+a:hover {color: ;}
+a:focus {color: ;}
+a:active {color:};
