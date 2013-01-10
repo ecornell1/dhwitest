@@ -61,11 +61,11 @@ thead th {
 	text-align:left;
 }
 th, 
-td {
+td {color: #fff;
 	padding: 10px 0;
 }
 
-a:link {color: ;}
+a:link {color: #fafafa;}
 a:visited {color: ;}
 a:hover {color: ;}
 a:focus {color: ;}
