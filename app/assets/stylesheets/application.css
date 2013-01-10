@@ -17,16 +17,21 @@ html {
 }
 
 body {
+	font-family: Arial, sans-serif; 
 	width: 70%;
 	margin: 0 auto;
 	padding: 20px 40px;
-	border: 1px solid #ddd;
+	border-bottom: 5px solid #777;
 }
 
 header {
 	background-color: #333;
 	color: #fff;
 	padding: 20px;
+}
+
+header h1 {
+	font-size: 40px;
 }
 
 nav ul {
@@ -44,3 +49,17 @@ header a:visited {color: #fff;}
 header a:hover {color: #fff;}
 header a:focus {color: #fff;}
 header a:active {color: #fff;}
+
+table {
+	width: 100%;
+}
+
+thead th {
+	border-bottom: 2px solid #ccc;
+	text-align:left;
+}
+th, 
+td {
+	padding: 10px 0;
+}
+
