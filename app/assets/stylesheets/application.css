@@ -49,16 +49,15 @@ nav li {
 
 header a:link {color: cornsilk;}
 header a:visited {color: cornsilk;}
-header a:hover {color: #fff;}
-header a:focus {color: #fff;}
-header a:active {color: #fff;}
+header a:hover {color: cornsilk;}
+header a:focus {color: cornsilk;}
+header a:active {color: cornsilk;}
 
 table {
 	width: 100%;
 }
 
 thead th {
-	border-bottom: 2px solid #ccc;
 	text-align:left;
 }
 th, 
@@ -67,7 +66,7 @@ td {color: #fff;
 }
 
 a:link {color: cornsilk;}
-a:visited {color: ;}
-a:hover {color: ;}
-a:focus {color: ;}
-a:active {color:};
+a:visited {color: cornsilk;}
+a:hover {color: cornsilk;}
+a:focus {color: cornsilk;}
+a:active {color: cornsilk};
