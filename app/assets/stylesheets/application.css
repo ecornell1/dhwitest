@@ -27,7 +27,7 @@ body {
 }
 
 header {
-	color: #fff;
+	color: bisque;
 	padding: 20px;
 	
 }
@@ -43,11 +43,12 @@ nav ul {
 }
 
 nav li {
-	display:inline; 
+	display:inline;
+	padding-right: 5px; 
 }
 
-header a:link {color: #fff;}
-header a:visited {color: #fff;}
+header a:link {color: cornsilk;}
+header a:visited {color: cornsilk;}
 header a:hover {color: #fff;}
 header a:focus {color: #fff;}
 header a:active {color: #fff;}
@@ -65,7 +66,7 @@ td {color: #fff;
 	padding: 10px 0;
 }
 
-a:link {color: #fafafa;}
+a:link {color: cornsilk;}
 a:visited {color: ;}
 a:hover {color: ;}
 a:focus {color: ;}
